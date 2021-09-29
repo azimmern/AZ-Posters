@@ -1,0 +1,66 @@
+{
+  "id" : "https://azimmern.github.io/AZ-Posters/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in azimmern/AZ-Posters project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 792,
+    "id" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1/canvas/",
+    "label" : {
+      "none" : [ "jthorup-poster-v1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 39
+            }, {
+              "width" : 50,
+              "height" : 77
+            }, {
+              "width" : 99,
+              "height" : 153
+            }, {
+              "width" : 198,
+              "height" : 306
+            }, {
+              "width" : 396,
+              "height" : 612
+            }, {
+              "width" : 792,
+              "height" : 1224
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 792,
+            "@id" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1224
+          } ],
+          "format" : "image/jpeg",
+          "width" : 792,
+          "id" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1224
+        },
+        "target" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1/canvas/"
+      } ]
+    } ],
+    "height" : 1224
+  } ]
+}
