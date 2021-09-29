@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1190,
+    "id" : "https://azimmern.github.io/AZ-Posters/images/tharrison-natalityconsciousness-v2/canvas/",
+    "label" : {
+      "none" : [ "tharrison-natalityconsciousness-v2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://azimmern.github.io/AZ-Posters/images/tharrison-natalityconsciousness-v2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://azimmern.github.io/AZ-Posters/images/tharrison-natalityconsciousness-v2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 27
+            }, {
+              "width" : 75,
+              "height" : 53
+            }, {
+              "width" : 149,
+              "height" : 106
+            }, {
+              "width" : 298,
+              "height" : 211
+            }, {
+              "width" : 595,
+              "height" : 421
+            }, {
+              "width" : 1190,
+              "height" : 841
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1190,
+            "@id" : "https://azimmern.github.io/AZ-Posters/images/tharrison-natalityconsciousness-v2",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 841
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1190,
+          "id" : "https://azimmern.github.io/AZ-Posters/images/tharrison-natalityconsciousness-v2/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 841
+        },
+        "target" : "https://azimmern.github.io/AZ-Posters/images/tharrison-natalityconsciousness-v2/canvas/"
+      } ]
+    } ],
+    "height" : 841
+  }, {
     "width" : 1224,
     "id" : "https://azimmern.github.io/AZ-Posters/images/miller-paradisefound-v1/canvas/",
     "label" : {
