@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 20,
+    "height" : 25
+  }, {
+    "width" : 39,
+    "height" : 50
+  }, {
+    "width" : 77,
+    "height" : 99
+  }, {
+    "width" : 153,
+    "height" : 198
+  }, {
+    "width" : 306,
+    "height" : 396
+  }, {
+    "width" : 612,
+    "height" : 792
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 612,
+  "@id" : "https://azimmern.github.io/AZ-Posters/images/rivett-savagesounds-v2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 792
+}
