@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 38,
+    "height" : 27
+  }, {
+    "width" : 75,
+    "height" : 53
+  }, {
+    "width" : 149,
+    "height" : 106
+  }, {
+    "width" : 298,
+    "height" : 211
+  }, {
+    "width" : 595,
+    "height" : 421
+  }, {
+    "width" : 1190,
+    "height" : 841
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1190,
+  "@id" : "https://azimmern.github.io/AZ-Posters/images/tharrison-natalityconsciousness-v2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 841
+}
