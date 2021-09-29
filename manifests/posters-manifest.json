@@ -1,0 +1,104 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://azimmern.github.io/AZ-Posters/manifests/posters-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "ArnaudZimmern-Posters(2015-2021)",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A series of posters composed between 2015 and 2021 for early modern seminars, courses, and other events, primarily at the University of Notre Dame",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Arnaud Zimmern",
+  "sequences" : [ {
+    "@id" : "http://71e1de2b-2528-4d06-bf3b-6173108dd19c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://94b25c19-d249-4666-8392-812492b4c5aa",
+      "@type" : "sc:Canvas",
+      "label" : "jthorup-dyinghands-v1",
+      "height" : 1224,
+      "width" : 792,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://eec12997-c263-4b20-8eb7-af7b74eed16c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://azimmern.github.io/AZ-Posters/images/jthorup-poster-v1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1224,
+          "width" : 792
+        },
+        "on" : "http://94b25c19-d249-4666-8392-812492b4c5aa"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a20dd9d2-b420-4b4c-9d40-f144a26e2be6",
+      "@type" : "sc:Canvas",
+      "label" : "azimmern-growingyoung-v1",
+      "height" : 612,
+      "width" : 792,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4dd6dfed-446e-4ad6-81c3-cc9a2cb8aff2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://azimmern.github.io/AZ-Posters/images/joan-falstaff-v1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://azimmern.github.io/AZ-Posters/images/joan-falstaff-v1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 612,
+          "width" : 792
+        },
+        "on" : "http://a20dd9d2-b420-4b4c-9d40-f144a26e2be6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a06ef764-83b9-441d-867e-01e01ec958eb",
+      "@type" : "sc:Canvas",
+      "label" : "mnyquist-ancientliberty-v1",
+      "height" : 1224,
+      "width" : 792,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://be39b9f2-e816-48f5-a5a9-60e8209b8948",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://azimmern.github.io/AZ-Posters/images/nyquist-nemiltonseminar-v2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://azimmern.github.io/AZ-Posters/images/nyquist-nemiltonseminar-v2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1224,
+          "width" : 792
+        },
+        "on" : "http://a06ef764-83b9-441d-867e-01e01ec958eb"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://a06ef764-83b9-441d-867e-01e01ec958eb"
+  }
+}
