@@ -106,14 +106,19 @@
             {
               "@id": "http://example.org/iiif/book1/range/r1",
               "@type": "sc:Range",
-              "label": "Jenny Thorup: Dying Hands: The Female Agent in Vishal Bhardwaj's Shakespearean Tragedies"
+              "label": "Introduction"
+            },
+            {
+              "@id": "http://example.org/iiif/book1/range/r2",
+              "@type": "sc:Range",
+              "label": "Part II"
             }
       ]
     },
     {
           "@id": "http://example.org/iiif/book1/range/r1",
           "@type": "sc:Range",
-          "label": "Introduction",
+          "label": "Jenny Thorup: Dying Hands: The Female Agent in Vishal Bhardwaj's Shakespearean Tragedies",
           "canvases": ["http://94b25c19-d249-4666-8392-812492b4c5aa"]
     }
 ],
