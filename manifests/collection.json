@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://azimmern.github.io/AZ-Posters/manifests/posters-manifest.json",
     "label" : "ArnaudZimmern-Posters(2015-2021)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://azimmern.github.io/AZ-Posters/manifests/harriot_6782.json",
+    "label" : "Harriot MS 6782"
   } ]
 }
