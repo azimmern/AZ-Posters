@@ -5,7 +5,7 @@ ECHO:HSPGZ0AE.xmlHarriot, ThomasMss. 6782o. J.engCC-BY-SACC-BY-SAMax Planck Inst
     
     {
         "@context": "http://iiif.io/api/presentation/3/context.json",
-        "id": "https://github.com/azimmern/IIIF-Tests/tree/main/annotations",
+        "id": "https://github.com/azimmern/IIIF-Tests/blob/main/annotations/harriot6782-annotationspage",
         "type": "AnnotationPage",
         
         "items": [ 
