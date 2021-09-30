@@ -112,7 +112,13 @@
               "@id": "http://example.org/iiif/book1/range/r2",
               "@type": "sc:Range",
               "label": "Part II"
+            },
+            {
+              "@id": "http://example.org/iiif/book1/range/r3",
+              "@type": "sc:Range",
+              "label": "Part III"
             }
+
       ]
     },
     {
@@ -120,6 +126,15 @@
           "@type": "sc:Range",
           "label": "Jenny Thorup: Dying Hands: The Female Agent in Vishal Bhardwaj's Shakespearean Tragedies",
           "canvases": ["http://94b25c19-d249-4666-8392-812492b4c5aa"]
+    },
+    {
+      "@id": "http://example.org/iiif/book1/range/r2",
+      "@type": "sc:Range",
+      "label": "Arnaud Zimmern: Growing Young: Saint Joan of Arc, Sir John Falstaff, & The Age of Martyrs",
+      "canvases": [
+        "http://a20dd9d2-b420-4b4c-9d40-f144a26e2be6",
+        "http://a20dd9d2-b420-4b4c-9d40-f144a26e2be6"]
+    
     }
 ],
   "thumbnail" : {
